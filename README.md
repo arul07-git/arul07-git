@@ -22,6 +22,7 @@ creative marketing strategies to solve business problems.
 - 🐍 **Programming** — Python
 - 🎨 **Content Creation** — UGC Scripts, Ad Copywriting
 - 📊 **Platforms** — GitHub, Canva, CapCut
+- 💻 **Problem Solving** — LeetCode
 
 ---
 
@@ -42,12 +43,21 @@ creative marketing strategies to solve business problems.
 - 🌱 Learning **AI-powered marketing workflows**
 - 💡 Exploring **Prompt Engineering** for real-world business use cases
 - 🤝 Open to **collaborations, internships & projects**
+- 💻 Solving problems daily on **LeetCode**
 
 ---
 
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/arul-g-3263b3375/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/u/Arul_1234/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:arul07807@gmail.com)
+
+---
+
+## 📊 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Arul_1234?theme=light&font=Nunito&ext=contest)
 
 ---
 
