@@ -1,3 +1,4 @@
+![GitHub Banner](./banner.svg)
 # Hi there, I'm G. Arul 👋
 
 🎓 B.Tech Student at **SRM Institute of Science and Technology, Ramapuram**  
