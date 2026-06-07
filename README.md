@@ -34,7 +34,7 @@ creative marketing strategies to solve business problems.
 - ✅ 3 High-Converting Hook Scripts
 - ✅ Full 30-45 second Video Script
 - ✅ Platform Captions for TikTok & Instagram Reels
-- 📂 [View Project](github.com/YourUsername/AI-UGC-Prompt-Marketing-System)
+- 📂 [View Project]([github.com/YourUsername/AI-UGC-Prompt-Marketing-System](https://github.com/arul07-git/FUTURE_PE_02))
 
 ---
 
